@@ -17,12 +17,12 @@
 
 
 
-----------Kullanılacak Diller----------
+----------Kullanılacak Programlama Dilleri----------
 
 
 Flutter(Dart),
 
-google firebase,
+Google firebase,
 
 
 ----------Katkı Sağlayanlar----------
